@@ -1,5 +1,7 @@
 # Introduction
 
+Pavan Kumar
+
 The JavaScript ecosystem evolves at incredible speed: staying current can feel
 overwhelming. So, instead of you having to stay on top of every new tool,
 feature and technique to hit the headlines, this project aims to lighten the
